@@ -1,4 +1,5 @@
-#25 RGB Underglow
+25 RGB Underglow with Colemak layout
+===================================
 
 This is a modification of the TMK firmware by ahtn found here https://github.com/ahtn/tmk_keyboard/tree/master/keyboard/split_keyboard
 
