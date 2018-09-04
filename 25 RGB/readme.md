@@ -8,6 +8,7 @@ COL_PINS { F4, F5, F6, F7, B1 }
 ROW_PINS { D4, C6, D7, E6, B4 }
 
 PCB's design by di0ib (40percent.club), can be found here
+
 https://github.com/di0ib/Misc/tree/master/25
 
 Custom split keyboard firmware
