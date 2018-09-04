@@ -1,7 +1,7 @@
 GSH 40 Keyboard
 ==============
 
-GSH40 is 40% ortholiner keyboard with RGB underglow
+GSH40 is 40% ortholiner keyboard with RGB underglow, base on TMK keyboard
 
 Pinout
 
